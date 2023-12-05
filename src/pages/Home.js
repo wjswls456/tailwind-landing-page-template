@@ -13,6 +13,8 @@ function Home() {
     <div className="flex flex-col min-h-screen overflow-hidden">
 
 //이부분을 수정합니다.
+
+//다시 업로드 진행
       {/*  Site header */}
       <Header />
 
