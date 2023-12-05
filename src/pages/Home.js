@@ -12,6 +12,7 @@ function Home() {
   return (
     <div className="flex flex-col min-h-screen overflow-hidden">
 
+//이부분을 수정합니다.
       {/*  Site header */}
       <Header />
 
